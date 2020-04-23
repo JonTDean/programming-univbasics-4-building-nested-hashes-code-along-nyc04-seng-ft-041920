@@ -48,7 +48,7 @@ def third_challenge
           },
         {
           name: "Nurse",
-          age: '18',
+          age: '44',
           attitude: 'hot-headed' 
           }]
    }
