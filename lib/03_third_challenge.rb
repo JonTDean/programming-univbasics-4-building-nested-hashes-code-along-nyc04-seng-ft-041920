@@ -42,7 +42,7 @@ def third_challenge
         },
       :heroine_friends => [
                 {
-          name: "steven",
+          name: "Steven",
           age: '30',
           attitude: 'confused' 
           },
