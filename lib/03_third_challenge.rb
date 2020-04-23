@@ -18,7 +18,7 @@ def third_challenge
         {
           name: "Benvolio",
           age: '17',
-          attitude: 
+          attitude: 'worried' 
           },
         {
           name: ,
