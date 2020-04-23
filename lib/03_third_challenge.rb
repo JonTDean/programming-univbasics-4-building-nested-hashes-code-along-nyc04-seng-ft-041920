@@ -44,7 +44,7 @@ def third_challenge
                 {
           name: "steven",
           age: '30',
-          attitude: 'worried' 
+          attitude: 'confused' 
           },
         {
           name: "Mercutio",
