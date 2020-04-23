@@ -16,6 +16,7 @@ def third_challenge
       },
       :hero_friends => [
         {
+          name:
           },
         {
           }
